@@ -1,0 +1,1 @@
+criteria  sha256=4787082728ab936e516963d701be5d497e90c88a68d912361fde1ab483fc6519  file=dashtra-reveal-criteria.html  sealed_at=2026-07-18  status=SEALED

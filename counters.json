@@ -1,0 +1,10 @@
+{
+  "revealed": false,
+  "resolved": 599,
+  "revealTarget": 1000,
+  "calibration": {
+    "resolved": 1240,
+    "saidPct": 70,
+    "happenedPct": 71
+  }
+}

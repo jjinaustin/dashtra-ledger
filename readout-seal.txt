@@ -1,0 +1,3 @@
+readout-method  sha256=11991a370f771ac08e90af01f94e37f9d670d0ef0b3a18c71a075fa93512fbb0  file=stratified_readout.py  sealed_at=2026-07-22  status=SEALED
+readout-prereg  sha256=d7b0a77066900bda52294e048f17e5e36a8d32858026c2a523d0e625dfb87b20  file=supplementary-readout-prereg.md  sealed_at=2026-07-22  status=SEALED
+note: additive disclosure to the reveal criteria (4787082728ab936e516963d701be5d497e90c88a68d912361fde1ab483fc6519); does not alter the sealed A/B/C verdict.

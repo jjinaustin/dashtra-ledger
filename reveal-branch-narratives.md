@@ -1,3 +1,4 @@
+[reveal-branch-narratives.zip](https://github.com/user-attachments/files/30432953/reveal-branch-narratives.zip)
 # Reveal narratives — Branches A / B / C (rev. 4, final — sealed)
 
 **Drafted:** Dr. Mercer, for Eve · pre-registered reveal posts, assembled from blind-written blocks

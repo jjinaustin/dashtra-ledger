@@ -1,7 +1,7 @@
 {
   "revealed": false,
-  "resolved": 616,
+  "resolved": 651,
   "revealTarget": 1000,
-  "sealedResearched": 1769,
+  "sealedResearched": 1869,
   "definition": "resolved and sealedResearched count the researched pipeline arm only (the reveal-scored cohort); the daily fingerprint still seals all arms, so the ledger n= values are unchanged."
 }
